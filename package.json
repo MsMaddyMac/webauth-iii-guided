@@ -19,5 +19,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsMaddyMac/webauth-iii-guided.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MsMaddyMac/webauth-iii-guided/issues"
+  },
+  "homepage": "https://github.com/MsMaddyMac/webauth-iii-guided#readme"
 }
